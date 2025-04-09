@@ -46,3 +46,8 @@ A full version of the paper is included in this repository: INVERSE DESIGN.pdf
 For questions or collaboration opportunities, contact:
 📧 jiapeng.xu@silicon-austria.com
 📧 tingzhong.xu@silicon-austria.com
+
+
+© 2025 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component.
+
+This is the accepted version of the paper: "INVERSE DESIGN OF PMUT USING DEEP REINFORCEMENT LEARNING WITH A VIEW TO CUSTOMIZED OPERATING FREQUENCY AND BROADENED BANDWIDTH." To appear in 2025 IEEE Transducers. The final version will be available at: https://ieeexplore.ieee.org/
